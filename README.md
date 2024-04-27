@@ -83,6 +83,14 @@ Operating Systems: Linux, Windows, MacOS, iOS
 
 <h3 align="center">Languages</h3>
 
+<p align="center">
+	English: <code>Advanced</code></br>
+	Ukrainian: <code>1st</code><code>Native</code></br>
+	Russian: <code>2nd</code><code>Native</code></br>
+	German: <code>Elementary</code></br>
+	Finnish: <code>Beginner</code></br>
+ </p>
+<!-- For quick copy&paste
 ```
 English: Advanced
 Ukrainian: 1st Native
@@ -90,6 +98,7 @@ Russian: 2nd Native
 German: Elementary
 Finnish: Beginner
 ```
+-->
 
 ---
 
