@@ -2,6 +2,54 @@
 Skills & Tools
 </h3>
 
+```mermaid
+timeline
+    # title History of Social Media Platform
+    Frontend : JavaScript
+	: TypeScript
+	: HTML
+	: CSS
+	: Sass
+	: React
+	: Redux
+	: Node.js
+	: Material UI
+    Backend : JavaScript
+	: TypeScript
+	: C++
+	: Node.js
+    DevOps : Bash
+	: Git
+	: Docker
+	: GitHub
+	: Gerrit
+	: Jenkins
+	: Azure DevOps
+    Testing : Jira
+	: Zephyr for Jira
+	: YouTrack
+	: TestRail
+	: Postman
+	: Talend API Tester
+	: VS Code REST Client
+	: Wireshark
+	: Chrome Dev Tools
+	: Confluence
+    Test Automation: CppUTest
+    	: Robocorp
+	: Jest
+	: Selenium
+    Databases: MongoDb
+	: Mongoose
+	: DBeaver
+	: Microsoft Access
+	: SQL
+```
+
+<h3 align="center">
+Quick Copy&Paste
+</h3>
+
 ```
 Frontend: JavaScript, TypeScript, HTML, CSS, Sass, React, Redux, Node.js, Material UI
 Backend: C++, JavaScript, TypeScript, Node.js
