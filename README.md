@@ -46,14 +46,11 @@ timeline
 	: SQL
 ```
 
-<h3 align="center">
-Quick Copy&Paste
-</h3>
-
+<!-- For quick copy&paste
 ```
 Frontend: JavaScript, TypeScript, HTML, CSS, Sass, React, Redux, Node.js, Material UI
 Backend: C++, JavaScript, TypeScript, Node.js
-DevOps: Bash, Git, Docker, GitHub, Gerrit, Jenkins
+DevOps: Bash, Git, Docker, GitHub, Gerrit, Jenkins, Azure DevOps
 Testing: Jira, Zephyr for Jira, YouTrack, TestRail, Postman, Talend API Tester, VS Code REST Client, Wireshark, Chrome Dev Tools, Confluence
 Test Automation: CppUTest, Robocorp, Jest, Selenium
 Databases: MongoDb, Mongoose, DBeaver, Microsoft Access, SQL
@@ -62,6 +59,7 @@ Basic Knowledge: Python, Java, AWS
 SDLC Models: Scrum, Kanban
 Operating Systems: Linux, Windows, MacOS, iOS
 ```
+-->
 
 ---
 
